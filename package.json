@@ -1,0 +1,12 @@
+{
+  "name": "ten-thousand-numbers",
+  "version": "1.0.0",
+  "description": "given an input number 'num', this code generates an array of numbers, 1 through num inclusive, in random order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "juliachack",
+  "license": "ISC"
+}

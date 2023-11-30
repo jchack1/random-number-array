@@ -27,3 +27,7 @@ Next, we randomly remove an element from `inOrder` (using `splice()`) and add it
 When the length of `inOrder` is 0, we know we have removed all its elements and `randomOrder` can be returned.
 
 To ensure this all goes smoothly, before creating `inOrder`, `num` is checked to confirm that it is a number and that it is not negative. Otherwise, unexpected results can occur which may not even throw an error. If the check fails, an error is thrown.
+
+## Running the code
+
+While in the root directory, run the command `npm start` to run the index.js file.
